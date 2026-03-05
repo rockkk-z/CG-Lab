@@ -139,31 +139,9 @@ cpu
 
 ## 🎥 运行效果展示
 
-### 示例截图
-
-（此处可插入运行截图）
-
-```
-assets/demo.png
-```
-
-在 README 中引用方式：
-
-```markdown
-![Simulation Demo](assets/demo.png)
-```
-
----
-
 ### 演示视频
 
-（此处填写视频链接）
-
-示例：
-
-```
-https://your-video-link.com
-```
+![Gravity Simulation](assets/demo.gif)
 
 ---
 
