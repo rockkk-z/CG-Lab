@@ -1,6 +1,6 @@
 # CG-Lab
 
-## Taichi GPU 万有引力粒子群仿真（基于 uv + src Layout）
+## Taichi GPU 万有引力粒子群仿真
 
 ---
 
@@ -10,7 +10,7 @@
 
 * **VS Code** 作为开发环境
 * **uv** 进行项目级虚拟环境管理
-* **src 布局（Source Layout）** 进行工程解耦
+* **src 布局** 进行工程解耦
 * **Taichi** 实现 GPU 并行计算
 * **Git** 进行版本控制
 
